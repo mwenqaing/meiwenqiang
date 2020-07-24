@@ -1,1 +1,316 @@
-<mxfile host="app.diagrams.net" modified="2020-07-24T06:44:44.906Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" version="13.5.1" etag="fDSkVAHUlT6Jfdo_bJdF" type="github"><diagram id="2RAu9vbeXvaWar7MPrkc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-24T08:52:51.730Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="SwaUvaMZ_f0MzaySEm9W" version="13.5.1" type="github">
+  <diagram id="2RAu9vbeXvaWar7MPrkc" name="Page-1">
+    <mxGraphModel dx="1673" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k3viZTdWvMKtveMwZigs-1" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="1120" height="2180" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="k3viZTdWvMKtveMwZigs-1">
+          <mxGeometry width="1120" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="k3viZTdWvMKtveMwZigs-2">
+          <mxGeometry width="173" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="k3viZTdWvMKtveMwZigs-2">
+          <mxGeometry x="173" width="247" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="k3viZTdWvMKtveMwZigs-2">
+          <mxGeometry x="420" width="230" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="k3viZTdWvMKtveMwZigs-2">
+          <mxGeometry x="650" width="230" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="k3viZTdWvMKtveMwZigs-2">
+          <mxGeometry x="880" width="240" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="k3viZTdWvMKtveMwZigs-1">
+          <mxGeometry y="131" width="1120" height="2049" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="k3viZTdWvMKtveMwZigs-8">
+          <mxGeometry width="173" height="2049" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="k3viZTdWvMKtveMwZigs-8">
+          <mxGeometry x="173" width="247" height="2049" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="k3viZTdWvMKtveMwZigs-8">
+          <mxGeometry x="420" width="230" height="2049" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="k3viZTdWvMKtveMwZigs-8">
+          <mxGeometry x="650" width="230" height="2049" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="k3viZTdWvMKtveMwZigs-8">
+          <mxGeometry x="880" width="240" height="2049" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-14" value="&lt;font style=&quot;font-size: 32px&quot;&gt;用户&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-15" value="&lt;font style=&quot;font-size: 32px&quot;&gt;服务器&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-16" value="&lt;font style=&quot;font-size: 32px&quot;&gt;rabbitmq中间件&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="120" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-17" value="&lt;font style=&quot;font-size: 32px&quot;&gt;his医院&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="130" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-18" value="&lt;font style=&quot;font-size: 32px&quot;&gt;微信支付&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="130" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-47" target="k3viZTdWvMKtveMwZigs-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="358.79999999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;数据组装、校验&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-21" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-20" target="k3viZTdWvMKtveMwZigs-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="280" as="sourcePoint" />
+            <mxPoint x="150" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-22" value="&lt;font style=&quot;font-size: 20px&quot;&gt;不通过&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k3viZTdWvMKtveMwZigs-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-23" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-20" target="k3viZTdWvMKtveMwZigs-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="640" as="sourcePoint" />
+            <mxPoint x="470" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-24" value="&lt;font style=&quot;font-size: 20px&quot;&gt;通过&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k3viZTdWvMKtveMwZigs-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-26" target="k3viZTdWvMKtveMwZigs-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;生成支付订单&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-31" target="k3viZTdWvMKtveMwZigs-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-31" value="&lt;font style=&quot;font-size: 18px&quot;&gt;业务交换机&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-33" target="k3viZTdWvMKtveMwZigs-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="1409.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="319" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-33" value="&lt;font style=&quot;font-size: 18px&quot;&gt;预约挂号支付队列&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-47" value="&lt;font style=&quot;font-size: 20px&quot;&gt;发起预约挂号订单支付&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="315" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-68" target="k3viZTdWvMKtveMwZigs-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-68" value="&lt;font style=&quot;font-size: 18px&quot;&gt;微信统一下单接口&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-70" target="k3viZTdWvMKtveMwZigs-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-70" value="&lt;font style=&quot;font-size: 18px&quot;&gt;用户支付订单&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-74" target="k3viZTdWvMKtveMwZigs-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-74" value="&lt;font style=&quot;font-size: 18px&quot;&gt;微信支付结果回调&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="770" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-75" value="&lt;font style=&quot;font-size: 18px&quot;&gt;支付订单结果处理&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="965" width="165" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-77" value="&lt;font style=&quot;font-size: 18px&quot;&gt;微信支付订单退款&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1025" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-80" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-75" target="k3viZTdWvMKtveMwZigs-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514" y="950" as="sourcePoint" />
+            <mxPoint x="334.24999999999955" y="1205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-81" value="&lt;font style=&quot;font-size: 18px&quot;&gt;支付成功&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k3viZTdWvMKtveMwZigs-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-82" value="&lt;font style=&quot;font-size: 18px&quot;&gt;his校验、组装预约数据&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1420" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-83" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-75" target="k3viZTdWvMKtveMwZigs-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514" y="1010" as="sourcePoint" />
+            <mxPoint x="620" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-84" value="&lt;font style=&quot;font-size: 18px&quot;&gt;支付失败&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k3viZTdWvMKtveMwZigs-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-127.33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-85" value="" style="endArrow=classic;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.888;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-102" target="k3viZTdWvMKtveMwZigs-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="834.58" y="1059" as="sourcePoint" />
+            <mxPoint x="904" y="2165" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="924" y="1855" />
+              <mxPoint x="920" y="2172" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-86" value="&lt;font style=&quot;font-size: 18px&quot;&gt;通过&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k3viZTdWvMKtveMwZigs-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-87" target="k3viZTdWvMKtveMwZigs-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-87" value="&lt;font style=&quot;font-size: 18px&quot;&gt;医院预约订单变为已支付&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="2120" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-88" target="k3viZTdWvMKtveMwZigs-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="1364.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-88" value="&lt;font style=&quot;font-size: 18px&quot;&gt;自动确认订单his已支付&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-96" value="&lt;font style=&quot;font-size: 18px&quot;&gt;用户完成订单支付&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-102" value="" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="706.25" y="1560" width="217.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-105" value="&lt;font style=&quot;font-size: 18px&quot;&gt;发起his医院支付消息&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271.5" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-107" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-105" target="k3viZTdWvMKtveMwZigs-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1240" as="sourcePoint" />
+            <mxPoint x="640" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-108" value="&lt;font style=&quot;font-size: 18px&quot;&gt;异步&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k3viZTdWvMKtveMwZigs-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-112" value="&lt;font style=&quot;font-size: 18px&quot;&gt;预约支付订单状态为已支付&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-113" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1320" as="sourcePoint" />
+            <mxPoint x="204" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-114" value="&lt;font style=&quot;font-size: 18px&quot;&gt;同步&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k3viZTdWvMKtveMwZigs-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-115" target="k3viZTdWvMKtveMwZigs-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-115" value="&lt;span&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;监听预约挂号支付消息、推送his医院支付订单&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259.18" y="1445" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-120" value="" style="endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-102" target="k3viZTdWvMKtveMwZigs-122">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1650" as="sourcePoint" />
+            <mxPoint x="640" y="1650" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-121" value="&lt;font style=&quot;font-size: 18px&quot;&gt;不通过&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k3viZTdWvMKtveMwZigs-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-122" value="&lt;font style=&quot;font-size: 18px&quot;&gt;his支付失败数据重复推送10，10s后任未支付推送到死信队列&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="246.87" y="1610" width="144.63" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-123" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-122" target="k3viZTdWvMKtveMwZigs-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="1650" as="sourcePoint" />
+            <mxPoint x="320" y="1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-124" value="&lt;font style=&quot;font-size: 18px&quot;&gt;重复推送不成功&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k3viZTdWvMKtveMwZigs-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-125" value="&lt;font style=&quot;font-size: 18px&quot;&gt;死信交换机&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-126" target="k3viZTdWvMKtveMwZigs-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-126" value="&lt;font style=&quot;font-size: 18px&quot;&gt;预约挂号支付死信队列&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-127" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-125" target="k3viZTdWvMKtveMwZigs-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1760" as="sourcePoint" />
+            <mxPoint x="600" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-128" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-122" target="k3viZTdWvMKtveMwZigs-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429.25" y="1715" as="sourcePoint" />
+            <mxPoint x="335" y="1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-129" value="&lt;font style=&quot;font-size: 18px&quot;&gt;重复推送成功&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k3viZTdWvMKtveMwZigs-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-130" value="&lt;font style=&quot;font-size: 18px&quot;&gt;批处理唤起死信队列中有效的支付订单定时推送到his&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1822.5" width="168.5" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-132" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-130" target="k3viZTdWvMKtveMwZigs-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="1930" as="sourcePoint" />
+            <mxPoint x="630" y="1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-133" value="&lt;font style=&quot;font-size: 18px&quot;&gt;持续推送失败&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k3viZTdWvMKtveMwZigs-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-134" value="&lt;font style=&quot;font-size: 18px&quot;&gt;人工处理预约支付订单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-135" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k3viZTdWvMKtveMwZigs-130" target="k3viZTdWvMKtveMwZigs-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1590" as="sourcePoint" />
+            <mxPoint x="680" y="1590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="1230" />
+              <mxPoint x="590" y="1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3viZTdWvMKtveMwZigs-136" value="&lt;font style=&quot;font-size: 18px&quot;&gt;有效订单唤起推送&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k3viZTdWvMKtveMwZigs-135">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5.8500000000000005" y="-60.85" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
